@@ -37,7 +37,11 @@ nvidia drivers version 410.48
 
 
 #### **How to train your model**
-cd final  
+cd M5_Uncertainty_3rd_place  
+mkdir submissions  
+mkdir processed_data  
+mkdir lgbm_datasets  
+mkdir models    
 
 <br />
 
