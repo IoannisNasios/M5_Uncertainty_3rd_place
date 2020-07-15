@@ -1,0 +1,1 @@
+{"RAW_DATA_DIR": "/var/data/m5-forecasting-accuracy/", "PROCESSED_DATA_DIR": "/home/gnas/M5/final/processed_data/", "LGBM_DATASETS_DIR": "/home/gnas/M5/final/lgbm_datasets/", "MODELS_DIR": "/home/gnas/M5/final/models/", "SUBMISSION_DIR": "/home/gnas/M5/final/submissions/"}
