@@ -14,7 +14,7 @@ To learn more about my solution you can visit my [write-up](https://www.kaggle.c
 
 <br />
 Our joint paper (with  my colleague Konstantinos Vogklis) is published by  
-[IJF](https://www.sciencedirect.com/science/article/pii/S0169207022000012).  
+**[IJF](https://www.sciencedirect.com/science/article/pii/S0169207022000012).**  
 Preprint can be found [here](https://www.researchgate.net/publication/358384908_Blending_gradient_boosted_trees_and_neural_networks_for_point_and_probabilistic_forecasting_of_hierarchical_time_series).  
 
 <br />
