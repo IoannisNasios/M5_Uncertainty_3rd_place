@@ -98,7 +98,7 @@ Raw files:
 sample_submission.csv is also needed.   
 Second half (rowwise) of submission file correspond to new predictions.  
 
-<br />
+<br /> 
 
 
 #### **Outputs - Submissions**
