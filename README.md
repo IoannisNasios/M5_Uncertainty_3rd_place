@@ -13,6 +13,10 @@ You can visit [M5 Uncertainty competition](https://www.kaggle.com/c/m5-forecasti
 To learn more about my solution you can visit my [write-up](https://www.kaggle.com/c/m5-forecasting-uncertainty/discussion/166875).  
 
 <br />
+Our joint paper (with  my colleague Konstantinos Vogklis) is published by [IJF](https://www.sciencedirect.com/science/article/pii/S0169207022000012).  
+Preprint can be downloaded [here](https://www.researchgate.net/profile/Konstantinos-Vogklis/publication/358384908_Blending_gradient_boosted_trees_and_neural_networks_for_point_and_probabilistic_forecasting_of_hierarchical_time_series/links/620f897e08bee946f38ae1ff/Blending-gradient-boosted-trees-and-neural-networks-for-point-and-probabilistic-forecasting-of-hierarchical-time-series.pdf?_sg%5B0%5D=r6g6AvzEhj6_qRn6ABHj1aeUTxNzwqQ-HtA8IS0-fugvZt_pAYiPmJw6p0MqWmVp-4LM-UfjKR2DKxqXdpW7eg.qFxWw0NEbdLkFygkRNhfdd6W8L8xYJNTu0wwAP1_pIPOxtGsjQhciK5NxlRNYbewoFhcueVqfCHLOoYEPHh1fg&_sg%5B1%5D=IhTK6Cj3EgiJrJvROVZgvg5Q7N2nofb2-aW8IrOzzKlxORwdvsRZZFwvi_VHUhjpA_FAAwx5E69ZNX6yZ4b2WEAp7EeGTg0ZHpeFtrxQ9PT9.qFxWw0NEbdLkFygkRNhfdd6W8L8xYJNTu0wwAP1_pIPOxtGsjQhciK5NxlRNYbewoFhcueVqfCHLOoYEPHh1fg&_sg%5B2%5D=xcZL4-Ogyb4bZpCB_W5Pix-Yk-p8dx7bf_f8Rgbencr-bwcUPjvl2rM0CDa9FXslXLG5aMvJ9EhVKAc.HbdPkuNdOrYa8DPxIKxV0zexUyd3eShvk6Btv7r8lPgl_QYsZNTL7FVjvG_mlr44foKRNTcz7KUgjjI1mpobQA&_iepl=).  
+
+<br />
 
 #### **HARDWARE: (The following specs were used to create the original solution)**  
 CPU: Intel(R) Xeon(R) CPU X5650  @ 2.67GHz with 24 cores  
