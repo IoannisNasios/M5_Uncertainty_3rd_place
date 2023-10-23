@@ -13,9 +13,10 @@ You can visit [M5 Uncertainty competition](https://www.kaggle.com/c/m5-forecasti
 To learn more about my solution you can visit my [write-up](https://www.kaggle.com/c/m5-forecasting-uncertainty/discussion/166875).  
 
 <br />
-Our joint paper (with  my colleague Konstantinos Vogklis) is published by  
-[IJF](https://www.sciencedirect.com/science/article/pii/S0169207022000012).  
-Preprint can be found [here](https://www.researchgate.net/publication/358384908_Blending_gradient_boosted_trees_and_neural_networks_for_point_and_probabilistic_forecasting_of_hierarchical_time_series).  
+
+Our joint paper, with  my colleague Konstantinos Vogklis, is published by [IJF](https://www.sciencedirect.com/science/article/pii/S0169207022000012).  
+
+Preprint can be found on [researchgate](https://www.researchgate.net/publication/358384908_Blending_gradient_boosted_trees_and_neural_networks_for_point_and_probabilistic_forecasting_of_hierarchical_time_series) and on [arxiv](https://arxiv.org/abs/2310.13029).  
 
 <br />
 
@@ -98,7 +99,7 @@ Raw files:
 sample_submission.csv is also needed.   
 Second half (rowwise) of submission file correspond to new predictions.  
 
-<br />
+<br /> 
 
 
 #### **Outputs - Submissions**
@@ -120,5 +121,4 @@ lgbm_datasets folder must be empty when starting a training run
 
 
 <br />
-
 
