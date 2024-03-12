@@ -41,7 +41,7 @@ nvidia drivers version 410.48
 <br />  
 <br />  
 
-
+ 
 #### **How to train your model**
 cd M5_Uncertainty_3rd_place  
 mkdir submissions  
@@ -122,3 +122,24 @@ lgbm_datasets folder must be empty when starting a training run
 
 <br />
 
+#### **Citing**
+
+If you find this repository useful, please consider citing the research paper:
+
+
+```
+@article{nasios2022blending,
+  title={Blending gradient boosted trees and neural networks for point and probabilistic forecasting of hierarchical time series},
+  author={Nasios, Ioannis and Vogklis, Konstantinos},
+  journal={International Journal of Forecasting},
+  volume={38},
+  number={4},
+  pages={1448--1459},
+  year={2022},
+  publisher={Elsevier}
+}
+
+```
+
+&nbsp;   &nbsp;   &nbsp; 
+<br />
